@@ -1,1 +1,4 @@
-
+# Environment
+.env
+*.session
+*.session-journal
